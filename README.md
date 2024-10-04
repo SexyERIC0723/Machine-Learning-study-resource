@@ -64,12 +64,12 @@ $\mathbb{E}[f]=\sum_i p\left(x_i\right) f\left(x_i\right)$
 **Variance:** 
 方差是一个衡量 **随机变量离散程度** 的指标，描述了数据分布相对于其期望值的偏离程度。换句话说，方差告诉我们随机变量的值相对期望值有多大程度的波动。
 
-$\operatorname{var}[f]=\mathbb{E}\left[(f(x)-\mathbb{E}[f(x)])^2\right]$
+$\text{var}[f] = \mathbb{E}\left[(f(x) - \mathbb{E}[f(x)])^2\right]$
 - 首先计算随机变量的 **偏差**：f(x)−E[f(x)]，也就是随机变量与其期望值之间的差距。
 - 然后对偏差进行 **平方**，这样可以避免正负抵消，并加大离期望值较远的数值的影响。
 - 最后对所有偏差平方的期望值进行计算。
 
-$\operatorname{var}[f]=\mathbb{E}\left[f(x)^2\right]-\mathbb{E}^2[f(x)]$
+$\text{var}[f] = \mathbb{E}\left[f(x)^2\right] - \mathbb{E}^2[f(x)]$  
 这意味着，方差可以用 **随机变量平方的期望值** 减去 **期望值的平方** 来计算。这两个表达式在数学上是等价的，提供了不同的角度去理解和计算方差。
 - **E[f(x)^2]** 表示对 **f(x)^2** 计算期望值。
 - **E^2[f(x)]** 表示先计算 **f(x)** 的期望值，然后再取平方。
