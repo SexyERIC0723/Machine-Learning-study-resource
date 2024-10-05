@@ -3,6 +3,19 @@ Resource about Machine learning
 I am a computer science college student currently studying Machine Learning, so I created this material hoping to help other friends who are studying the course. If there are any errors or unreasonable parts in the content, please feel free to point them out   
 我是一名计算机大学生目前正在学习Machine Learning，于是创建了这份资料也希望帮助其他正在学该课程的朋友，如果其中的内容有错误或不合理的地方也欢迎指出来
 
+# Bayesian - 贝叶斯定理
+# Frequentist Statistics - 频率派统计
+# Expectation values, Variance, Moments - 期望值，方差，矩
+# Discrete Distributions  (Bernoulli)
+# Discrete Distributions  (Binomial - AKA Random Walk  二项分布概述)
+# Continuous Distributions - 连续分布
+# Likelihood（可能性） vs Probability（概率）
+# Inference（推断）
+# Joint Probabilities（联合概率）
+# Marginal Probability（边缘概率）
+# The Curse of Dimensionality - 维度灾难  
+
+
 
 # Bayesian - 贝叶斯定理
 
